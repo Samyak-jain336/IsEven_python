@@ -26,6 +26,16 @@ def is_Even(number):
     elif number == 13:
         return False
     elif number == 14:
-        return False
+        return True
     elif number == 15:
         return False
+    elif number == 16:
+        return True
+    elif number == 17:
+        return False
+    elif number == 18:
+        return True
+    elif number == 19:
+        return False
+    elif number == 20:
+        return True

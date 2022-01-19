@@ -1,2 +1,2 @@
 # IsEven_python
-to find if number even or odd
+to find if a number is even or not

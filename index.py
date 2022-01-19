@@ -19,3 +19,13 @@ def is_Even(number):
         return False
     elif number == 10:
         return True
+    elif number == 11:
+        return False
+    elif number == 12:
+        return True
+    elif number == 13:
+        return False
+    elif number == 14:
+        return False
+    elif number == 15:
+        return False

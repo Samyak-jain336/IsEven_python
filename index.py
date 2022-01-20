@@ -59,3 +59,23 @@ def is_Even(number):
         return False
     elif number == 30:
         return True
+    elif number == 31:
+        return False
+    elif number == 32:
+        return True
+    elif number == 33:
+        return False
+    elif number == 34:
+        return True
+    elif number == 35:
+        return False
+    elif number == 36:
+        return True
+    elif number == 37:
+        return False
+    elif number == 38:
+        return True
+    elif number == 39:
+        return False
+    elif number == 40:
+        return True

@@ -79,3 +79,13 @@ def is_Even(number):
         return False
     elif number == 40:
         return True
+    elif number == 41:
+        return False
+    elif number == 42:
+        return True
+    elif number == 43:
+        return False
+    elif number == 44:
+        return True
+    elif number == 45:
+        return False

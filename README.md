@@ -1,5 +1,15 @@
 # IsEven_python
-to find if a number is even or not
+a very inefficient code to check if a number is even or odd
+
+## A efficient version of the code
+
+```python
+def is_Even(number):
+    if number % 2 == 0:
+        return True
+    else:
+        return False
+```
 
 ## How the code is written
 

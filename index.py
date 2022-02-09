@@ -99,3 +99,6 @@ def is_Even(number):
         return False
     elif number == 50:
         return True
+    elif number == 51:
+        return False
+    

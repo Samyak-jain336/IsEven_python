@@ -1,7 +1,7 @@
 # IsEven_python
 A very inefficient code to check if a number is even or odd
 
-## A efficient version of the code
+## An efficient version of the code
 
 ```python
 def is_Even(number):

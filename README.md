@@ -32,7 +32,7 @@ print(is_Even(10))
 
 ### Done By
 
-- [@SamyakJain](https://github.com/aHumanBeing036)
+- [@Samyak_Jain](https://github.com/aHumanBeing036)
 
-- [@ShubhratShrivastava](https://github.com/JODDeDiSync)
+- [@Shubhrat_Srivastava](https://github.com/JODDeDiSync)
 

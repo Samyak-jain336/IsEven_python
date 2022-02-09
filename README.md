@@ -30,7 +30,7 @@ def is_Even(number):
 print(is_Even(10))
 ```
 
-## Done By
+### Done By
 
 - [@SamyakJain](https://github.com/aHumanBeing036)
 

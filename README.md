@@ -35,4 +35,3 @@ print(is_Even(10))
 - [@Samyak_Jain](https://github.com/aHumanBeing036)
 
 - [@Shubhrat_Srivastava](https://github.com/JODDeDiSync)
-

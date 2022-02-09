@@ -13,3 +13,9 @@ def is_Even(number):
         return False
     #and so on....
 ```
+## Done By
+
+- [@SamyakJain](https://github.com/aHumanBeing036)
+
+- [@ShubhratShrivastava](https://github.com/JODDeDiSync)
+

@@ -13,6 +13,13 @@ def is_Even(number):
         return False
     #and so on....
 ```
+## To run the code
+
+```python
+# Eg lets take for 10
+print(is_Even(10))
+```
+
 ## Done By
 
 - [@SamyakJain](https://github.com/aHumanBeing036)

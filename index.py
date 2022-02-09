@@ -101,4 +101,22 @@ def is_Even(number):
         return True
     elif number == 51:
         return False
-    
+    elif number == 52:
+        return True
+    elif number == 53:
+        return False
+    elif number == 54:
+        return True
+    elif number == 55:
+        return False
+    elif number == 56:
+        return True
+    elif number == 57:
+        return False
+    elif number == 58:
+        return True
+    elif number == 59:
+        return False
+    elif number == 60:
+        return True
+

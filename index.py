@@ -129,4 +129,74 @@ def is_Even(number):
         return True
     elif number == 65:
         return False
+    elif number == 66:
+        return True
+    elif number == 67:
+        return False
+    elif number == 68:
+        return True
+    elif number == 69:
+        return False
+    elif number == 70:
+        return True
+    elif number == 71:
+        return False
+    elif number == 72:
+        return True
+    elif number == 73:
+        return False
+    elif number == 74:
+        return True
+    elif number == 75:
+        return False
+    elif number == 76:
+        return True
+    elif number == 77:
+        return False
+    elif number == 78:
+        return True
+    elif number == 79:
+        return False
+    elif number == 80:
+        return True
+    elif number == 81:
+        return False
+    elif number == 82:
+        return True
+    elif number == 83:
+        return False
+    elif number == 84:
+        return True
+    elif number == 85:
+        return False
+    elif number == 86:
+        return True
+    elif number == 87:
+        return False
+    elif number == 88:
+        return True
+    elif number == 89:
+        return False
+    elif number == 90:
+        return True
+    elif number == 91:
+        return False
+    elif number == 92:
+        return True
+    elif number == 93:
+        return False
+    elif number == 94:
+        return True
+    elif number == 95:
+        return False
+    elif number == 96:
+        return True
+    elif number == 97:
+        return False
+    elif number == 98:
+        return True
+    elif number == 99:
+        return False
+    elif number == 100:
+        return True
 

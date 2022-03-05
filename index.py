@@ -209,4 +209,14 @@ def is_Even(number):
         return True
     elif number == 105:
         return False
+    elif number == 106:
+        return True
+    elif number == 107:
+        return False
+    elif number == 108:
+        return True
+    elif number == 109:
+        return False
+    elif number == 110:
+        return True
 

@@ -135,7 +135,7 @@ def is_Even(number):
         return False
     elif number == 68:
         return True
-    elif number == 69:
+    elif number == 69:# N I C E
         return False
     elif number == 70:
         return True
